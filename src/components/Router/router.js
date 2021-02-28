@@ -12,7 +12,7 @@ export default function router(){
          <Route1 path="/route1"/>
 	   </Route>
 	   <Route path="/route2">
-         <Route2/>
+    	<Route2/>
 	   </Route>
 	   <Route path="/route3">
          <Route3 path="/route3"/>
